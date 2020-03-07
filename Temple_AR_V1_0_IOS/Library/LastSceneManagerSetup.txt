@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/_Resources/_Scenes/0_Initialiser.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
